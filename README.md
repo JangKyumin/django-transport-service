@@ -52,4 +52,5 @@ except ApiException as e:
 
 #### 참조
 - https://developers.sendinblue.com/recipes
+- https://github.com/sendinblue/APIv3-python-library
 </details>
