@@ -73,6 +73,15 @@ except ApiException as e:
 - https://www.twilio.com/docs/libraries/python
 </details>
 
+<details>
+<summary>Naver - Simple & Easy Notification Service</summary>  
+
+#### 소개
+월 50건까지는 무료로 사용 가능하다.
+
+### 참조
+- https://www.ncloud.com/product/applicationService/sens
+</details>
 ---  
 
 메일과 문자 전송에 관련된 부분은 좀 더 찾아볼 필요가 있을 것으로 보인다.
